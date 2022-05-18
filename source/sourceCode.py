@@ -16,8 +16,8 @@ def tpms_equation(x, y, z, a, t):
     six=sin(2.0*pi*x/a)
     return ((six**2)*(coy**2) + (siy**2)*(coz**2) + (siz**2)*(cox**2) + (2*six*coy*siy*coz) + (2*six*coy*siz*cox) + (2*cox*siy*siz*coz)) - (t**2)
 
-path="C:\\Users\\James\\Documents\\CIDESI\\2022\\"  #Storage folder
-name="3DBenchy.stl"  #File name
+path="C:\\Users\\Public\\"  #Working folder
+name="3DBenchy.stl"  #STL file located at the working folder
 
 #Gyroid Parameters
 a_cell = 1e-2  # [m] Unit cell size
