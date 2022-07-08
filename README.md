@@ -5,7 +5,7 @@ MaSMaker aims to provide an easy-to-use and self-contained tool to embed geometr
 
 <img src="https://user-images.githubusercontent.com/89549378/178032184-0831dd82-d7d7-41b9-9e18-a4003de2174e.png" width="460" height="500">
 
-The software tool allows to control the main parameters of this kind of structures (isovalue, cell resolution and unit cell size). MaSMaker is distributed under the GPLv3 license.
+The software tool allows to control the main parameters of TPMS structures (isovalue, cell resolution and unit cell size). MaSMaker is distributed under the GPLv3 license.
 
 Executable version can be found in the release MaSMaker v1.0 (https://github.com/CONMAD-CIDESIMX/MaSMaker/releases/tag/v1.0)
 
